@@ -1,1 +1,1 @@
-# restaurant_klusevich
+# Olga Klusevich, Restaurant App, React + Bootstrap
